@@ -25,7 +25,7 @@ role: Graduate Research Assistant
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Pennstate
-    url: https://openai.com/
+    url: https://www.me.psu.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,16 +35,25 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
+    label: Twitter/X
   - icon: brands/instagram
     url: https://www.instagram.com/
+    label: Instagram
   - icon: brands/github
     url: https://github.com/gcushen
+    label: Github
   - icon: brands/linkedin
     url: https://www.linkedin.com/
+    label: Linkedin
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=aK6TLVcAAAAJ&hl=en
+    label: Google-scholar
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0002-1440-1839
+    label: Orcid
+    - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Md-Hafijur-Rahman-10?ev=hdr_xprf
+    label: Researchgate
 
 interests:
   - Materials characterization
@@ -52,28 +61,28 @@ interests:
   - Semiconductor materials
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Mechanical Engineering
+    institution: The Pennsylvania State University
+    date_start: 2023-01-30
+    date_end: Present
+    summary: |
+      My PhD research focuses on developing a low-temperature alternative to conventional thermal annealing using Electron Wind Force (EWF) annealing. This technique enables efficient defect recovery in radiation-damaged semiconductors and mechanically deformed metal alloys, significantly reducing energy consumption and processing time.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: MSc in Mechanical Engineering
+    institution: University of Alberta, Canada
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc in Mechanical Engineering
+    institution: Bangladesh University of Engineering and Technology (BUET)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -144,9 +153,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
+  - name: Bengali
+    percent: 100
+  - name: Hindi
     percent: 25
 
 # Awards.
@@ -183,4 +192,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Md Hafijur Rahman is a Ph.D. candidate in Mechanical Engineering at The Pennsylvania State University, where his research focuses on defect dynamics and low-temperature annealing techniques in radiation-damaged materials and semiconductor devices. He earned his M.Sc. in Mechanical Engineering from the University of Alberta, Canada, and completed his B.Sc. in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). His academic journey reflects a strong commitment to advancing materials science through innovative, energy-efficient solutions.
