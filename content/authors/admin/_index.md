@@ -64,7 +64,7 @@ education:
   - area: PhD in Mechanical Engineering
     institution: The Pennsylvania State University
     date_start: 2023-01-30
-    date_end: Present
+    date_end: 2026-06-20
     summary: |
       My PhD research focuses on developing a low-temperature alternative to conventional thermal annealing using Electron Wind Force (EWF) annealing. This technique enables efficient defect recovery in radiation-damaged semiconductors and mechanically deformed metal alloys, significantly reducing energy consumption and processing time.
     #button:
