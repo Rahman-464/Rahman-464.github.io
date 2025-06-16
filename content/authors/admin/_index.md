@@ -51,7 +51,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0000-0002-1440-1839
     label: Orcid
-    - icon: academicons/researchgate
+  - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Md-Hafijur-Rahman-10?ev=hdr_xprf
     label: Researchgate
 
