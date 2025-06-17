@@ -61,4 +61,4 @@ image:
 #slides: ""
 ---
 
-This work demonstrates a novel low-temperature annealing technique using electron wind force (EWF) to effectively recover cold-rolling-induced residual stress in FeCrAl alloys at temperatures below 100 °C within just 1 minute. Unlike conventional thermal annealing (~750 °C, 1.5 h), our EWF approach achieves superior defect mitigation—reducing low-angle grain boundaries (LAGBs) from 82.4% to 47.5%, even lower than the pristine state (54.8%). 
+This work demonstrates a new low-temperature annealing technique using electron wind force (EWF) to effectively recover cold-rolling-induced residual stress in FeCrAl alloys at temperatures below 100 °C within just 1 minute. Unlike conventional thermal annealing (~750 °C, 1.5 h), our EWF approach achieves superior defect mitigation—reducing low-angle grain boundaries (LAGBs) from 82.4% to 47.5%, even lower than the pristine state (54.8%). 
