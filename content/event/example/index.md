@@ -1,24 +1,47 @@
 ---
-title: Example Talk
+title: MS&T24 Conference Presentation
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: The Materials Science & Technology (MS&T) technical meeting and exhibition 
+event_url: https://www.matscitech.org/MST24
 
-location: Hugo Blox Builder HQ
+location:   Pittsburgh, Pennsylvania, USA
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: David L. Lawrence Convention Center |
+  city: Pittsburgh
+  region: PA
+  #postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: I have presented my research on low-temperature annealing of cold rolled FeCrAl alloy.
+abstract: 'Controlling the microstructure and defects of materials through
+traditional
+methods like thermal annealing, which involves high temperatures and long
+processing times, often introduces additional challenges, such as
+thermoelastic
+strain and increased energy consumption. This necessitates exploring
+alternative techniques that can modify material properties without the
+drawbacks of conventional thermal treatments. The Electron Wind Force (EWF)
+
+could be such an athermal stimulus, which originates from the momentum
+transfer
+between the electron and lattice atoms.  We observe that the Electron Wind
+Force (EWF) can effectively control grain orientation and modify the
+microstructure of various alloys. In addition, we will also discuss how the
+EWF
+can eliminate defects induced by cold rolling in a FeCrAl alloy in less
+than a
+minute at temperatures below 100°C, which typically require temperatures of
+
+750°C and durations of up to 1.5 hours with traditional annealing. Also,
+EWF
+rejuvenates the performance of semiconductor devices and lowers radiation
+damage.
+'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-10-06T13:00:00Z'
+date_end: '2024-10-09T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +56,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'During the presentation!!'
   focal_point: Right
 
 #links:
@@ -41,10 +64,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com'
+#url_pdf: ''
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,18 +81,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+#projects:
+ 
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
