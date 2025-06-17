@@ -61,10 +61,4 @@ image:
 #slides: ""
 ---
 
-#This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+This work demonstrates a novel low-temperature annealing technique using electron wind force (EWF) to effectively recover cold-rolling-induced residual stress in FeCrAl alloys at temperatures below 100 °C within just 1 minute. Unlike conventional thermal annealing (~750 °C, 1.5 h), our EWF approach achieves superior defect mitigation—reducing low-angle grain boundaries (LAGBs) from 82.4% to 47.5%, even lower than the pristine state (54.8%). 
