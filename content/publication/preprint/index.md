@@ -2,11 +2,11 @@
 title: "What thermal annealing does at over 1000K and 90 minutes, EWF annealing can do the same at <400K and 1 minute"
 authors:
 - admin
-date: "2024"
+date: "2024-02-22T00:00:00Z"
 doi: "10.3390/met14030331"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2024-02-22T00:00:00Z"
+publishDate: "2024-02-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
