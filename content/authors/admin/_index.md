@@ -33,17 +33,17 @@ profiles:
   - icon: at-symbol
     url: 'mailto:mxr5923@psu.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-    label: Twitter/X
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #  label: Twitter/X
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/hafijur_rahman_masum/
     label: Instagram
-  - icon: brands/github
-    url: https://github.com/gcushen
-    label: Github
+  #- icon: brands/github
+ #   url: https://github.com/gcushen
+#    label: Github
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/md-hafijur-rahman-486808108/
     label: Linkedin
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=aK6TLVcAAAAJ&hl=en
@@ -56,9 +56,17 @@ profiles:
     label: Researchgate
 
 interests:
-  - Materials characterization
-  - Radiation damage
-  - Semiconductor materials
+  - Low-temperature defect mitigation using Electron Wind Force (EWF) annealing in metals and semiconductors
+
+  - Radiation resilience of GaN HEMTs and Zener diodes under gamma and heavy-ion exposure
+
+  - Microstructural refinement and stress relief in cold-rolled alloys via athermal electropulsing
+
+  - Characterization of defect dynamics and charge transport in degraded semiconductor devices
+
+  - Development of sustainable, non-thermal processing alternatives to high-temperature annealing
+
+  - Future focus: In-situ TEM techniques for real-time observation of defect evolution during EWF treatment
 
 education:
   - area: PhD in Mechanical Engineering
