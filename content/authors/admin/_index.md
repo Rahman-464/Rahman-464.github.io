@@ -56,7 +56,16 @@ profiles:
     label: Researchgate
 
 interests:
+  - Low-temperature defect mitigation using Electron Wind Force (EWF) annealing in metals and semiconductors
 
+  - Radiation resilience of GaN HEMTs and Zener diodes under gamma and heavy-ion exposure
+
+  - Microstructural refinement and stress relief in cold-rolled alloys via athermal electropulsing
+
+  - Characterization of defect dynamics and charge transport in degraded semiconductor devices
+
+  - Development of sustainable, non-thermal processing alternatives to high-temperature annealing
+  - In-situ TEM techniques for real-time observation of defect evolution during EWF treatment
 
 education:
   - area: PhD in Mechanical Engineering
