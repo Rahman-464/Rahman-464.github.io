@@ -33,7 +33,13 @@ abstract: Low-angle grain boundaries (LAGBs) accommodate residual stress through
   forces, presents a promising avenue for residual stress mitigation while minimizing
   undesirable thermal effects, paving the way for advancements in various material
   processing applications.
+featured: true
 links:
 - name: URL
   url: https://www.mdpi.com/2075-4701/14/3/331
+
+
+image:
+  focal_point: ""
+  preview_only: false
 ---
