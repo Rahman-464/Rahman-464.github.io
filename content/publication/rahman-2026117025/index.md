@@ -40,9 +40,8 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Performance comparison of Thermal and EWF annealing'
-  focal_point: ""
-  preview_only: true
+  
+  preview_only: false
 ---
 
 
