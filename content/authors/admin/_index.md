@@ -2,13 +2,6 @@
 # Display name
 title: Md Hafijur Rahman
 
-# Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-#first_name: Shiung Wu
-#last_name: Chien
-
 # Status emoji
 status:
   icon: ☕️
@@ -22,93 +15,83 @@ highlight_name: true
 # Role/position/tagline
 role: Graduate Research Assistant
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations
 organizations:
-  - name: Pennstate
+  - name: Penn State University
     url: https://www.me.psu.edu/
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# Social links
 profiles:
   - icon: at-symbol
     url: 'mailto:mxr5923@psu.edu'
     label: E-mail Me
-  #- icon: brands/x
-  #  url: https://twitter.com/GetResearchDev
-  #  label: Twitter/X
   - icon: brands/instagram
     url: https://www.instagram.com/hafijur_rahman_masum/
     label: Instagram
-  #- icon: brands/github
- #   url: https://github.com/gcushen
-#    label: Github
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/md-hafijur-rahman-486808108/
     label: Linkedin
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=aK6TLVcAAAAJ&hl=en
-    label: Google-scholar
+    label: Google Scholar
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0002-1440-1839
-    label: Orcid
+    url: https://orcid.org/0000-0002-1440-1839
+    label: ORCID
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Md-Hafijur-Rahman-10?ev=hdr_xprf
-    label: Researchgate
+    label: ResearchGate
 
+# -----------------------------------
+# RESEARCH INTERESTS
+# -----------------------------------
 interests:
   - Low-temperature defect mitigation using Electron Wind Force (EWF) annealing in metals and semiconductors
-
   - Radiation resilience of GaN HEMTs and Zener diodes under gamma and heavy-ion exposure
-
   - Microstructural refinement and stress relief in cold-rolled alloys via athermal electropulsing
-
   - Characterization of defect dynamics and charge transport in degraded semiconductor devices
-
   - Development of sustainable, non-thermal processing alternatives to high-temperature annealing
   - In-situ TEM techniques for real-time observation of defect evolution during EWF treatment
 
+# -----------------------------------
+# EDUCATION
+# -----------------------------------
 education:
   - area: PhD in Mechanical Engineering
     institution: The Pennsylvania State University
     date_start: 2023-01-30
     date_end: 2026-06-20
-     GPA: 4.0/4.0
-    Courses included:
-       - Physics of Radiation Damage
-       - Manufacturing Methods in Microelectronics
+    gpa: 4.0/4.0
+    courses:
+      - Physics of Radiation Damage
+      - Manufacturing Methods in Microelectronics
     summary: |
       My PhD research focuses on developing a low-temperature alternative to conventional thermal annealing using Electron Wind Force (EWF) annealing. This technique enables efficient defect recovery in radiation-damaged semiconductors and mechanically deformed metal alloys, significantly reducing energy consumption and processing time.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
+
   - area: MSc in Mechanical Engineering
     institution: University of Alberta, Canada
     date_start: 2021-01-10
     date_end: 2022-12-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Courses included:
+    gpa: 4.0/4.0
+    courses:
       - Continuum Mechanics
       - Macro Fracture Mechanics
       - Fundamentals of Engineering Numerical Analysis
       - Applied Computational Intelligence for Engineers
       - Mechanics and Design of Composite Materials
+
   - area: BSc in Mechanical Engineering
     institution: Bangladesh University of Engineering and Technology (BUET)
     date_start: 2014-07-01
     date_end: 2018-10-22
-    summary: |
-      GPA: 3.81/4.0
-      
-# ==============================
+    gpa: 3.81/4.0
+
+# -----------------------------------
 # WORK EXPERIENCE
-# ==============================
+# -----------------------------------
 work:
   - position: Graduate Research Assistant
     company_name: The Pennsylvania State University – Haque Research Group
     company_url: https://www.mne.psu.edu/
-    company_logo: ''
     date_start: 2023-01-01
     date_end: ''
     summary: |2-
@@ -121,7 +104,6 @@ work:
   - position: Graduate Research Assistant
     company_name: University of Alberta – Theoretical and Applied Mechanics Laboratory
     company_url: https://www.ualberta.ca/
-    company_logo: ''
     date_start: 2021-01-01
     date_end: 2022-12-31
     summary: |2-
@@ -133,7 +115,6 @@ work:
   - position: Lecturer / Instructor
     company_name: Bangladesh Army University of Science and Technology (BAUST)
     company_url: https://www.baust.edu.bd/
-    company_logo: ''
     date_start: 2019-11-01
     date_end: 2020-12-31
     summary: |2-
@@ -141,30 +122,30 @@ work:
       - Supervised laboratory courses and guided student projects.
       - Coordinated academic and extracurricular events, improving departmental outreach.
 
-# ==============================
+# -----------------------------------
 # SKILLS
-# ==============================
+# -----------------------------------
 skills:
   - name: Research & Technical Skills
     items:
       - name: Electron Wind Force (EWF) Annealing
-        description: Radiation damage mitigation, microstructural modification.
+        description: Radiation damage mitigation, microstructural modification
         percent: 100
         icon: bolt
       - name: Advanced Characterization
-        description: EBSD, XRD, TEM, FIB, Raman spectroscopy.
+        description: EBSD, XRD, TEM, FIB, Raman spectroscopy
         percent: 95
         icon: microscope
       - name: Computational Modeling
-        description: Continuum Mechanics, Finite Element Analysis (FEniCS, COMSOL).
+        description: Continuum Mechanics, Finite Element Analysis (FEniCS, COMSOL)
         percent: 90
         icon: cube
       - name: Molecular Dynamics Simulation
-        description: LAMMPS-based nanoscale simulation.
+        description: LAMMPS-based nanoscale simulation
         percent: 85
         icon: atom
       - name: Data Science & Machine Learning
-        description: Python, NumPy, Pandas, Scikit-learn, TensorFlow.
+        description: Python, NumPy, Pandas, Scikit-learn, TensorFlow
         percent: 80
         icon: chart-bar
 
@@ -185,9 +166,9 @@ skills:
         percent: 85
         icon: globe
 
-# ==============================
+# -----------------------------------
 # AWARDS
-# ==============================
+# -----------------------------------
 awards:
   - title: Harry G. Miller Fellowship in Engineering
     date: '2025-09-01'
@@ -226,9 +207,13 @@ awards:
     summary: |
       Studied blockchain architecture, consensus algorithms, and smart contract development.
 
-
+# -----------------------------------
+# ABOUT ME
+# -----------------------------------
+bio: |
+  Md Hafijur Rahman is a Ph.D. candidate in Mechanical Engineering at The Pennsylvania State University,
+  where his research focuses on defect dynamics and low-temperature annealing techniques in radiation-damaged
+  materials and semiconductor devices. He earned his M.Sc. in Mechanical Engineering from the University of Alberta,
+  Canada, and completed his B.Sc. in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET).
+  His academic journey reflects a strong commitment to advancing materials science through innovative, energy-efficient solutions.
 ---
-
-## About Me
-
-Md Hafijur Rahman is a Ph.D. candidate in Mechanical Engineering at The Pennsylvania State University, where his research focuses on defect dynamics and low-temperature annealing techniques in radiation-damaged materials and semiconductor devices. He earned his M.Sc. in Mechanical Engineering from the University of Alberta, Canada, and completed his B.Sc. in Mechanical Engineering from Bangladesh University of Engineering and Technology (BUET). His academic journey reflects a strong commitment to advancing materials science through innovative, energy-efficient solutions.
