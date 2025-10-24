@@ -37,9 +37,9 @@ links:
   featured: true
 
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image: featured.jpg
+image:
+  caption: 
+  focal_point: ""
   preview_only: false
 ---
 
