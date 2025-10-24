@@ -13,7 +13,7 @@ publishDate: '2025-10-24T01:22:21.983419Z'
 publication_types:
 - article-journal
 publication: '*Advanced Materials Technologies*'
-featured: true
+featured: false
 links:
 - name: URL
   url: https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202500874
