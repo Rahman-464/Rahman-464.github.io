@@ -104,7 +104,7 @@ summary: "Teaching experience, instructional support, and student mentoring acro
 > where students grow both technically and intellectually.”
 
 ---
-
+---
 ## ✨ Summary
 
 - **5+ years** of teaching and mentoring experience across three institutions.  
