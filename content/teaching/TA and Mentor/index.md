@@ -4,8 +4,6 @@ date: 2025-10-24
 type: page
 summary: "Teaching experience, instructional support, and student mentoring across Penn State, University of Alberta, and BAUST."
 image:
-  focal_point: ""
-  preview_only: false
 ---
 
 ## 🧑‍🏫 Teaching Experience
