@@ -43,11 +43,12 @@ sections:
       columns: '1'
   - block: collection
     id: papers
-    content: 
+    content:
+      title: Featured Publications
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
     design:
       view: article-grid
       columns: 2
