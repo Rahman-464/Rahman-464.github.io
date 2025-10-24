@@ -191,21 +191,6 @@ awards:
     summary: |
       Awarded for consistent academic excellence throughout undergraduate study.
 
-  - title: Coursera Specialization – Neural Networks and Deep Learning
-    date: '2023-11-25'
-    awarder: Coursera / DeepLearning.AI
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    icon: coursera
-    summary: |
-      Completed foundational deep learning specialization under Andrew Ng, focusing on neural network design and implementation.
-
-  - title: Professional Certificate – Blockchain Fundamentals
-    date: '2023-07-01'
-    awarder: UC Berkeley (edX)
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    icon: edx
-    summary: |
-      Studied blockchain architecture, consensus algorithms, and smart contract development.
 
 # -----------------------------------
 # ABOUT ME
