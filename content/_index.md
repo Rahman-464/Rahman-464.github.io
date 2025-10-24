@@ -52,8 +52,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-      spacing:
-        padding: [1rem, 0, 1rem, 0]
+    
   - block: collection
     content:
       title: Recent Publications
