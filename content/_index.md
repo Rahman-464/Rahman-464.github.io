@@ -35,17 +35,19 @@ content:
 title: '📚 My Research'
 subtitle: ''
 text: |-
-      My research bridges the fields of materials science and semiconductor engineering, with a primary focus on defect dynamics and low-temperature annealing. On one front, I explore athermal Electron Wind Force (EWF) annealing as a novel technique to mitigate cold-rolling-induced residual stress and dislocation structures in metals and alloys such as FeCrAl. On the other, I apply EWF to restore electrical performance and structural integrity in wide-bandgap semiconductor devices, particularly those degraded by radiation exposure. This dual approach aims to advance energy-efficient, rapid, and damage-free recovery techniques for next-generation electronic and structural materials.
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       My research bridges the fields of materials science and semiconductor engineering, with a primary focus on defect dynamics and low-temperature annealing. On one front, I explore athermal Electron Wind Force (EWF) annealing as a novel technique to mitigate cold-rolling-induced residual stress and dislocation structures in metals and alloys such as FeCrAl. On the other, I apply EWF to restore electrical performance and structural integrity in wide-bandgap semiconductor devices, particularly those degraded by radiation exposure. This dual approach aims to advance energy-efficient, rapid, and damage-free recovery techniques for next-generation electronic and structural materials.
 
 
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        
        Please reach out to collaborate 😃
    design:
 columns: '1'
 - block: collection
 id: papers
 content:
-      title: Featured Publications
-      
+title: Featured Publications
 filters:
 folders:
 - publication
