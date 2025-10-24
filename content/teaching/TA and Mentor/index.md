@@ -3,12 +3,12 @@ title: "Teaching & Mentorship"
 date: 2025-10-24
 type: page
 summary: "Teaching experience, instructional support, and student mentoring across Penn State, University of Alberta, and BAUST."
----
-
-## 🧑‍🏫 Teaching Experience
 image:
   focal_point: ""
   preview_only: false
+---
+
+## 🧑‍🏫 Teaching Experience
 ### **Graduate Teaching Assistant — The Pennsylvania State University**
 **Course:** ME 460: Mechanical Design II  
 **Duration:** Jan 2023 – May 2023  
