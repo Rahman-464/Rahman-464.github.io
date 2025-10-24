@@ -1,7 +1,7 @@
 ---
 title: "Teaching & Mentorship"
 date: 2025-10-24
-type: landing
+type: page
 summary: "Teaching experience, instructional support, and student mentoring across Penn State, University of Alberta, and BAUST."
 ---
 
