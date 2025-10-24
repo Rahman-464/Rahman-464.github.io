@@ -41,19 +41,20 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-    - block: collection
-    id: papers
+     - block: collection
+    id: featured-pubs
     content:
       title: Featured Publications
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: true   # or 'featured: true' if older theme
     design:
       view: article-grid
       columns: 2
 
   - block: collection
+    id: recent-pubs
     content:
       title: Recent Publications
       filters:
@@ -62,6 +63,7 @@ sections:
         exclude_featured: true
     design:
       view: citation
+
 
   - block: collection
     id: talks
