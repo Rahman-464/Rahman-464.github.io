@@ -43,7 +43,8 @@ sections:
       columns: '1'
   - block: collection
     id: papers
-    content: 
+    content:
+      title: Featured Publications
       filters:
         folders:
           - publication
