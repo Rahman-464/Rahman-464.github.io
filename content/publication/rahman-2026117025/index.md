@@ -34,4 +34,17 @@ tags:
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S1359646225004877
+  featured: true
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Performance comparison of Thermal and EWF annealing'
+  focal_point: ""
+  preview_only: true
 ---
+
+
+
+ 
