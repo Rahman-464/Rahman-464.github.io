@@ -72,6 +72,10 @@ education:
     institution: The Pennsylvania State University
     date_start: 2023-01-30
     date_end: 2026-06-20
+     GPA: 4.0/4.0
+    Courses included:
+       - Physics of Radiation Damage
+       - Manufacturing Methods in Microelectronics
     summary: |
       My PhD research focuses on developing a low-temperature alternative to conventional thermal annealing using Electron Wind Force (EWF) annealing. This technique enables efficient defect recovery in radiation-damaged semiconductors and mechanically deformed metal alloys, significantly reducing energy consumption and processing time.
     #button:
@@ -79,122 +83,150 @@ education:
     #  url: 'https://example.com'
   - area: MSc in Mechanical Engineering
     institution: University of Alberta, Canada
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-01-10
+    date_end: 2022-12-31
     summary: |
       GPA: 4.0/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Continuum Mechanics
+      - Macro Fracture Mechanics
+      - Fundamentals of Engineering Numerical Analysis
+      - Applied Computational Intelligence for Engineers
+      - Mechanics and Design of Composite Materials
   - area: BSc in Mechanical Engineering
     institution: Bangladesh University of Engineering and Technology (BUET)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-07-01
+    date_end: 2018-10-22
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.81/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# ==============================
+# WORK EXPERIENCE
+# ==============================
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Graduate Research Assistant
+    company_name: The Pennsylvania State University – Haque Research Group
+    company_url: https://www.mne.psu.edu/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Leading NSF-funded research on low-temperature defect engineering via **Electron Wind Force (EWF)**.
+      - Developed in-situ electropulsing system and protocols to mitigate defects in FeCrAl and ZrTi alloys.
+      - Investigated EWF-driven recovery of radiation-damaged **wide-bandgap semiconductors (GaN, SiC)**.
+      - Supervised undergraduate researchers and mentored four junior graduate students.
+      - 10+ peer-reviewed journal publications and multiple invited talks.
+
+  - position: Graduate Research Assistant
+    company_name: University of Alberta – Theoretical and Applied Mechanics Laboratory
+    company_url: https://www.ualberta.ca/
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2021-01-01
+    date_end: 2022-12-31
+    summary: |2-
+      - Developed **second strain gradient continuum models** for fiber-reinforced composites.
+      - Implemented and solved nonlinear PDEs in **FEniCS** for high-order continuum mechanics problems.
+      - Conducted fracture mechanics studies including **T-stress effects** on crack tip plastic zones.
+      - Applied **machine learning models** for biomedical data classification.
+
+  - position: Lecturer / Instructor
+    company_name: Bangladesh Army University of Science and Technology (BAUST)
+    company_url: https://www.baust.edu.bd/
+    company_logo: ''
+    date_start: 2019-11-01
     date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: |2-
+      - Taught undergraduate courses in **Mechanical Design, Mechanics, and Numerical Analysis**.
+      - Supervised laboratory courses and guided student projects.
+      - Coordinated academic and extracurricular events, improving departmental outreach.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+# ==============================
+# SKILLS
+# ==============================
 skills:
-  - name: Technical Skills
+  - name: Research & Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
+      - name: Electron Wind Force (EWF) Annealing
+        description: Radiation damage mitigation, microstructural modification.
         percent: 100
+        icon: bolt
+      - name: Advanced Characterization
+        description: EBSD, XRD, TEM, FIB, Raman spectroscopy.
+        percent: 95
+        icon: microscope
+      - name: Computational Modeling
+        description: Continuum Mechanics, Finite Element Analysis (FEniCS, COMSOL).
+        percent: 90
+        icon: cube
+      - name: Molecular Dynamics Simulation
+        description: LAMMPS-based nanoscale simulation.
+        percent: 85
+        icon: atom
+      - name: Data Science & Machine Learning
+        description: Python, NumPy, Pandas, Scikit-learn, TensorFlow.
+        percent: 80
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+
+  - name: Professional & Soft Skills
+    color: '#0d6efd'
+    color_border: '#0b5ed7'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Scientific Writing & Publication
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: pen-nib
+      - name: Mentorship & Collaboration
+        percent: 95
+        icon: users
+      - name: Project Management
+        percent: 90
+        icon: clipboard-check
+      - name: Leadership & Outreach
+        percent: 85
+        icon: globe
 
-languages:
-  - name: English
-    percent: 100
-  - name: Bengali
-    percent: 100
-  - name: Hindi
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# ==============================
+# AWARDS
+# ==============================
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
+  - title: Harry G. Miller Fellowship in Engineering
+    date: '2025-09-01'
+    awarder: Penn State College of Engineering
+    icon: award
+    summary: |
+      Awarded for interdisciplinary research excellence and travel support to present at **MS&T 2025**.
+
+  - title: Dean’s List Award
+    date: '2018-10-01'
+    awarder: Bangladesh University of Engineering and Technology (BUET)
+    icon: university
+    summary: |
+      Recognized for outstanding academic achievement during B.Sc. in Mechanical Engineering.
+
+  - title: University Merit Scholarship
+    date: '2017-10-01'
+    awarder: Bangladesh University of Engineering and Technology (BUET)
+    icon: medal
+    summary: |
+      Awarded for consistent academic excellence throughout undergraduate study.
+
+  - title: Coursera Specialization – Neural Networks and Deep Learning
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: Coursera / DeepLearning.AI
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+      Completed foundational deep learning specialization under Andrew Ng, focusing on neural network design and implementation.
+
+  - title: Professional Certificate – Blockchain Fundamentals
     date: '2023-07-01'
-    awarder: edX
+    awarder: UC Berkeley (edX)
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     icon: edx
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Studied blockchain architecture, consensus algorithms, and smart contract development.
+
+
 ---
 
 ## About Me
