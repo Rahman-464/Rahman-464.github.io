@@ -72,7 +72,6 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: news
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
